@@ -24,7 +24,7 @@ My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your messag
 
 global.owner = ['+94760601107'] //Owner number in aive msg
 global.premium = ['+94760601107'] //Owner Number info
-global.ownernomer = '+94760390292' //Owner Number <<<
+global.ownernomer = '+94760601107' //Owner Number <<<
 
 global.ownername = '😎pathum' //Owner Name
 global.botname = ' ☬RED༒DRAGON' //Bot Name
